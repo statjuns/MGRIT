@@ -1,0 +1,24 @@
+Loading weights for detector: missing: 0, unexpected: 5.
+det missing: 0
+det unexpected: 5
+Loading weights for detector: missing: 0, unexpected: 5.
+det missing: 0
+det unexpected: 5
+Loading weights for detector: missing: 0, unexpected: 5.
+det missing: 0
+det unexpected: 5
+Loading weights for detector: missing: 0, unexpected: 5.
+det missing: 0
+det unexpected: 5
+len(dataloaders['train']):   59
+len(dataloaders['train_dict']):   238
+Train: rank=0, epoch=0, phase=fr_xe
+len(dataloaders['train']):   59
+len(dataloaders['train_dict']):   238
+Train: rank=2, epoch=0, phase=fr_xe
+len(dataloaders['train']):   59
+len(dataloaders['train_dict']):   238
+Train: rank=3, epoch=0, phase=fr_xe
+len(dataloaders['train']):   59
+len(dataloaders['train_dict']):   238
+Train: rank=1, epoch=0, phase=fr_xe

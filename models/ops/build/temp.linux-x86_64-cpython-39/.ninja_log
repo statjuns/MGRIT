@@ -1,0 +1,18 @@
+# ninja log v5
+0	2398	1665329836	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	a6e45ac806b8fb5e
+0	12725	1665329846	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/vision.o	7aedf887d684317e
+2	2256	1665330504	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	499280ed2a3f4028
+2	2266	1665331283	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	b7b0532512cafa9c
+2	12098	1665331293	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/vision.o	a5646820b2256d65
+8	2317	1665335134	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	68beeefa712cfe2a
+9	9971	1665335142	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cuda/ms_deform_attn_cuda.o	e4a0c18b2afb84c7
+8	12493	1665335145	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/vision.o	25791439fdae81c6
+2	2339	1665335147	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	18d692ea110706c0
+2	9983	1665335155	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cuda/ms_deform_attn_cuda.o	af321d72eb13ce4b
+1	12455	1665335158	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/vision.o	cad01e37a3f9c333
+2	3684	1665335537	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	68beeefa712cfe2a
+1	12232	1665335546	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/vision.o	25791439fdae81c6
+2	14496	1665335548	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cuda/ms_deform_attn_cuda.o	3f7c227f5232720e
+13	3674	1665335552	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cpu/ms_deform_attn_cpu.o	18d692ea110706c0
+13	12380	1665335561	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/vision.o	cad01e37a3f9c333
+13	14361	1665335563	/home/naver1/Documents/sjjung/grit/models/ops/build/temp.linux-x86_64-cpython-39/home/naver1/Documents/sjjung/grit/models/ops/src/cuda/ms_deform_attn_cuda.o	3f6887857cb4851a
