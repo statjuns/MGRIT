@@ -1,25 +1,7 @@
-## GRIT: Faster and Better Image captioning Transformer (ECCV 2022)
+## MGRIT: Multilingual Image captioning
 
-This is the code implementation for the paper titled: "GRIT: Faster and Better Image-captioning Transformer Using Dual Visual Features" (Accepted to ECCV 2022) [[Arxiv](https://arxiv.org/abs/2207.09666)].
+This is the code implementation for Multilingual GRIT [[Arxiv](https://arxiv.org/abs/2207.09666)].
 
-
-## Introduction
-
-This paper proposes a Transformer neural architecture, dubbed <b>GRIT</b> (Grid- and Region-based Image captioning Transformer), that effectively utilizes the two visual features to generate better captions. GRIT replaces the CNN-based detector employed in previous methods with a DETR-based one, making it computationally faster.
-
-
-<div align=center>  
-<img src='.github/grit.png' width="100%">
-</div>
-
-
-## Model Zoo
-
-> **It will be reformatted into a table**. The checkpoints are currently stored temporarily on Google Drive with limited space. More checkpoints will be updated with better location.
-- pretrained object detector on Visual Genome: [checkpoint](https://drive.google.com/file/d/1dlzNkbs81ZSdeGCxKrRhLGKK_TBTdXjL/view?usp=sharing).
-- pretrained object detector on 4 datasets: [checkpoint](https://drive.google.com/file/d/1J2_Q3n4BHQgh0JhImd7c39wx5hEFzjzB/view?usp=sharing).
-- checkpoint for GRIT on image caption (using the detector pretrained on VG): [checkpoint](https://drive.google.com/file/d/1ViqBJ_i9CVABpy48pOAC1MDHZ6e5Zj1v/view?usp=sharing).
-- checkpoint for GRIT on image caption (using the detector pretrained on 4DS): [checkpoint](https://drive.google.com/file/d/1WLsMrtVFTftSJiGHg7iALNFImtefHtOT/view?usp=sharing). 
 
 ## Installation
 
@@ -180,4 +162,4 @@ If you find this code useful, please kindly cite the paper with the following bi
 ```
 
 ## Acknowledgement
-We have inherited several open source projects into ours: i) implmentation of [Swin Transformer](https://github.com/microsoft/Swin-Transformer), ii) implementation of [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR), and iii) implementation of image captioning base from [M2-Transformer](https://github.com/aimagelab/meshed-memory-transformer). We thank the authors of these open source projects.
+We have inherited several open source projects into ours: i) implmentation of [Swin Transformer](https://github.com/microsoft/Swin-Transformer), ii) implementation of [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR), and iii) implementation of image captioning base from [M2-Transformer](https://github.com/aimagelab/meshed-memory-transformer).iiii) implementation of image captioning base from [GRIT](https://github.com/aimagelab/meshed-memory-transformer) We thank the authors of these open source projects. 
